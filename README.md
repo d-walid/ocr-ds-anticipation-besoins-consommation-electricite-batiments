@@ -44,5 +44,5 @@ non destinés à l’habitation pour lesquels elles n’ont pas encore été mes
 
 ## Liens utiles
 
-- [Page d'accueil des données d'Open Food Facts](https://world.openfoodfacts.org/)
-- [Téléchargement direct des données](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-scientist/P2/fr.openfoodfacts.org.products.csv.zip)
+- [Page d'accueil des données de Seattle](https://data.seattle.gov/)
+- [Téléchargement direct des données](https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/Data_Scientist_P4/2016_Building_Energy_Benchmarking.csv)
